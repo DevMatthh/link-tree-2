@@ -72,7 +72,7 @@ function Network() {
           onChange={(e) => setYoutube(e.target.value)}
         />
         <button
-          className="text-white font-bold bg-blue-600 h-9 rounded-md items-center justify-center flex mb-7"
+          className="text-white font-bold bg-blue-600 h-9 rounded-md items-center justify-center flex mb-7 cursor-pointer"
           type="submit"
         >
           Salvar links
